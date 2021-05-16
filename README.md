@@ -18,11 +18,15 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 * CollectionView.
 
+* Navigation Controller.
+
+* TabBar Controller.
+
 ## Features
 
-## **Home Page.**
+## **ToDo List**
 
-![![Sign In and Register Tabs.]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/15.jpg)
+![![ToDo List]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/15.jpg){ width=50% }
 
 ## **Categories - Price**
 
