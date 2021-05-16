@@ -30,36 +30,39 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 ## **New Reminder**
 
-![![Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/3.jpg){ :height="36px" width="50px" }
-
-![![Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/5.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/3.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/5.jpg" width="500" height="1000">
 
 ## **ToDo List Reminder**
 
-![![ToDo List Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/6.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/6.jpg" width="500" height="1000">
+
 
 ## **Calendar**
 
-![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/7.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/7.jpg" width="500" height="1000">
+
 
 ## **New Event**
 
-![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/8.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/8.jpg" width="500" height="1000">
 
 ## **Calendar Event**
 
-![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/9.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/9.jpg" width="500" height="1000">
+
 
 ## **Money Tracker**
 
-![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg" width="500" height="1000">
 
 ## **New Amount**
 
-![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/12.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/12.jpg" width="500" height="1000">
 
 ## **Money Tracker**
 
-![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg" width="500" height="1000">
 
-![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/13.jpg){ :height="36px" width="50px" }
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/13.jpg" width="500" height="1000">
+
