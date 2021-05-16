@@ -68,6 +68,6 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 ## **Facebook Login**
 
-<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/23.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/23.png" width="500" height="1000">
 
-<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/24.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/24.png" width="500" height="1000">
