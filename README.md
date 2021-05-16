@@ -1,0 +1,53 @@
+# Name: Noar Rassam
+
+# iOS MidTerm Project
+
+
+## Description
+iOS project that implements a variety of functionalties such as ToDo List, Calendar, Facebook Login, and Fianance tabs through a segments controller.  
+
+## Functionalities
+
+* Prepare Function.
+
+* Constraints.
+
+* Cocoapods.
+
+* TableView.
+
+* CollectionView.
+
+## Features
+
+## **Home Page.**
+
+![![Sign In and Register Tabs.]()](https://github.com/noarrassam/iOS2_MidTerm_Project/blob/main/Images/._Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-05-16%20at%2013.17.44.png)
+
+## **Categories - Price**
+
+![![Categories - Price]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/2.JPG)
+
+## **Product Gallery**
+
+![![Cars List]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/3.JPG)
+
+## **Login**
+
+![![Login]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/4.JPG)
+
+## **User Registration**
+
+![![User Registration]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/5.JPG)
+
+## **User Authority for Purchasing Books**
+
+![![Feedback]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/7.JPG)
+
+## **Purchases**
+
+![![Purchases]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/8.JPG)
+
+## **PayPal**
+
+![![Paypal]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/9.JPG)
