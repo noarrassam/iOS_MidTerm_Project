@@ -10,6 +10,8 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 * Prepare Function.
 
+* Protocol.
+
 * Constraints.
 
 * Cocoapods.
