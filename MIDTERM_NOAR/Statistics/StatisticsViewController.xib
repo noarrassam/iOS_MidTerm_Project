@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="StatisticsViewController" customModule="MIDTERM_NOAR" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" restorationIdentifier="statisticsVC" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="headline1" translatesAutoresizingMaskIntoConstraints="NO" id="8Lx-cF-Lmc">
+                    <rect key="frame" x="24" y="499" width="88" height="23"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="rectangle34899" translatesAutoresizingMaskIntoConstraints="NO" id="cRb-u0-GeL">
+                    <rect key="frame" x="-3" y="524" width="414" height="103"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="subNowHis" translatesAutoresizingMaskIntoConstraints="NO" id="2iM-AI-7Nx">
+                    <rect key="frame" x="-3" y="175" width="414" height="311"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="path2008" translatesAutoresizingMaskIntoConstraints="NO" id="1gi-Lm-3I7">
+                    <rect key="frame" x="49" y="555" width="48" height="41"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="path2003" translatesAutoresizingMaskIntoConstraints="NO" id="ecu-IQ-xF4">
+                    <rect key="frame" x="58" y="555" width="40" height="41"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="60" translatesAutoresizingMaskIntoConstraints="NO" id="bc1-xD-hPc">
+                    <rect key="frame" x="68" y="570" width="15" height="11"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="loremIpsum99" translatesAutoresizingMaskIntoConstraints="NO" id="zhx-pe-RKu">
+                    <rect key="frame" x="128" y="562" width="39" height="16"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="sitDolorAmetIpsumDolor1" translatesAutoresizingMaskIntoConstraints="NO" id="Ckj-lQ-WXz">
+                    <rect key="frame" x="128" y="579" width="75" height="10"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="rectangle34899" translatesAutoresizingMaskIntoConstraints="NO" id="egb-S2-Glm">
+                    <rect key="frame" x="0.0" y="622" width="414" height="103"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="path2008" translatesAutoresizingMaskIntoConstraints="NO" id="xPw-1v-ioJ">
+                    <rect key="frame" x="47" y="653" width="48" height="41"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="30" translatesAutoresizingMaskIntoConstraints="NO" id="6Nr-hx-Hab">
+                    <rect key="frame" x="65" y="668" width="15" height="11"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="loremIpsum99" translatesAutoresizingMaskIntoConstraints="NO" id="G0m-9T-KeG">
+                    <rect key="frame" x="127" y="658" width="39" height="16"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="sitDolorAmetIpsumDolor1" translatesAutoresizingMaskIntoConstraints="NO" id="WY4-Px-8ei">
+                    <rect key="frame" x="127" y="675" width="75" height="10"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="path2005" translatesAutoresizingMaskIntoConstraints="NO" id="zTl-2n-NMe">
+                    <rect key="frame" x="77" y="645" width="26" height="33"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <constraints>
+                <constraint firstItem="xPw-1v-ioJ" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="225.5" id="0sa-4Z-qJP"/>
+                <constraint firstItem="2iM-AI-7Nx" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="-117.5" id="1eL-af-9AR"/>
+                <constraint firstItem="G0m-9T-KeG" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="218" id="1ux-Br-wA0"/>
+                <constraint firstItem="ecu-IQ-xF4" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-129" id="4nN-Og-Csy"/>
+                <constraint firstItem="xPw-1v-ioJ" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-136" id="832-ci-cXg"/>
+                <constraint firstItem="1gi-Lm-3I7" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="127.5" id="ERq-ep-Wlm"/>
+                <constraint firstItem="zTl-2n-NMe" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-117" id="EgQ-ZW-roh"/>
+                <constraint firstItem="2iM-AI-7Nx" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-3" id="F9t-dn-c5N"/>
+                <constraint firstItem="bc1-xD-hPc" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-131.5" id="FhU-nH-7b3"/>
+                <constraint firstItem="bc1-xD-hPc" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="127.5" id="LBn-A0-6ag"/>
+                <constraint firstItem="Ckj-lQ-WXz" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="136" id="PhS-KY-3rm"/>
+                <constraint firstItem="zhx-pe-RKu" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="122" id="SsK-Yj-Vbn"/>
+                <constraint firstItem="egb-S2-Glm" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="225.5" id="W3S-nB-AyB"/>
+                <constraint firstItem="zTl-2n-NMe" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="213.5" id="bJd-ss-5gw"/>
+                <constraint firstItem="WY4-Px-8ei" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-42.5" id="bNW-8q-ECo"/>
+                <constraint firstItem="ecu-IQ-xF4" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="127.5" id="bTP-gw-3xC"/>
+                <constraint firstItem="Ckj-lQ-WXz" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-41.5" id="duE-Jy-j6o"/>
+                <constraint firstItem="G0m-9T-KeG" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-60.5" id="fbb-0U-CLH"/>
+                <constraint firstItem="WY4-Px-8ei" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="232" id="fcy-g2-lBT"/>
+                <constraint firstItem="8Lx-cF-Lmc" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="62.5" id="gdr-ph-YOD"/>
+                <constraint firstItem="cRb-u0-GeL" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="127.5" id="lID-Mp-IX9"/>
+                <constraint firstItem="egb-S2-Glm" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="oT9-eh-SJu"/>
+                <constraint firstItem="8Lx-cF-Lmc" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-139" id="p3R-WS-5o0"/>
+                <constraint firstItem="cRb-u0-GeL" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-3" id="rvq-P3-Vwe"/>
+                <constraint firstItem="6Nr-hx-Hab" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-134.5" id="sfW-SR-IMB"/>
+                <constraint firstItem="1gi-Lm-3I7" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-134" id="vbh-cb-TNQ"/>
+                <constraint firstItem="zhx-pe-RKu" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" constant="-59.5" id="x0w-wl-d1M"/>
+                <constraint firstItem="6Nr-hx-Hab" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" constant="225.5" id="zOi-2G-JRH"/>
+            </constraints>
+            <point key="canvasLocation" x="137.68115942028987" y="102.45535714285714"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="30" width="25" height="12"/>
+        <image name="60" width="25" height="12"/>
+        <image name="headline1" width="63" height="15"/>
+        <image name="loremIpsum99" width="71" height="12"/>
+        <image name="path2003" width="46" height="59"/>
+        <image name="path2005" width="35" height="46"/>
+        <image name="path2008" width="59" height="59"/>
+        <image name="rectangle34899" width="353" height="103"/>
+        <image name="sitDolorAmetIpsumDolor1" width="117" height="11"/>
+        <image name="subNowHis" width="359" height="271"/>
+    </resources>
+</document>
