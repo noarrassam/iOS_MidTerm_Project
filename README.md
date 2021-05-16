@@ -26,32 +26,40 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 ## **ToDo List**
 
-![![ToDo List]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/15.jpg){ :height="36px" width="50px" }
+![![ToDo List]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/2.jpg){ :height="36px" width="50px" }
 
-## **Categories - Price**
+## **New Reminder**
 
-![![Categories - Price]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/2.JPG)
+![![Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/3.jpg){ :height="36px" width="50px" }
 
-## **Product Gallery**
+![![Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/5.jpg){ :height="36px" width="50px" }
 
-![![Cars List]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/3.JPG)
+## **ToDo List Reminder**
 
-## **Login**
+![![ToDo List Reminder]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/6.jpg){ :height="36px" width="50px" }
 
-![![Login]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/4.JPG)
+## **Calendar**
 
-## **User Registration**
+![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/7.jpg){ :height="36px" width="50px" }
 
-![![User Registration]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/5.JPG)
+## **New Event**
 
-## **User Authority for Purchasing Books**
+![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/8.jpg){ :height="36px" width="50px" }
 
-![![Feedback]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/7.JPG)
+## **Calendar Event**
 
-## **Purchases**
+![![Calendar]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/9.jpg){ :height="36px" width="50px" }
 
-![![Purchases]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/8.JPG)
+## **Money Tracker**
 
-## **PayPal**
+![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg){ :height="36px" width="50px" }
 
-![![Paypal]()](https://github.com/noarrassam/TheBookCellar/blob/master/Library/Images/9.JPG)
+## **New Amount**
+
+![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/12.jpg){ :height="36px" width="50px" }
+
+## **Money Tracker**
+
+![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/10.jpg){ :height="36px" width="50px" }
+
+![![Tracker]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/13.jpg){ :height="36px" width="50px" }
