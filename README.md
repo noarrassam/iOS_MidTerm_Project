@@ -26,7 +26,7 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 ## **ToDo List**
 
-<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/2.jpg" width="500" height="500">
+<img src="https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/2.jpg" width="500" height="1000">
 
 ## **New Reminder**
 
