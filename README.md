@@ -22,7 +22,7 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 ## **Home Page.**
 
-![![Sign In and Register Tabs.]()](https://github.com/noarrassam/iOS2_MidTerm_Project/blob/main/Images/._Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-05-16%20at%2013.17.44.png)
+![![Sign In and Register Tabs.]()](https://github.com/noarrassam/iOS_MidTerm_Project/blob/main/Images/15.jpg)
 
 ## **Categories - Price**
 
