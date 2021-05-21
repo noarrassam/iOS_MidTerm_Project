@@ -31,6 +31,7 @@
 		F84BF6E725FEF48000949C5F /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84BF6E525FEF48000949C5F /* StatisticsViewController.swift */; };
 		F84BF6E825FEF48000949C5F /* StatisticsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F84BF6E625FEF48000949C5F /* StatisticsViewController.xib */; };
 		F84BF6ED25FF00C900949C5F /* NewAmountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84BF6EC25FF00C900949C5F /* NewAmountViewController.swift */; };
+		F84E2E942658131F00B3543E /* License in Resources */ = {isa = PBXBuildFile; fileRef = F84E2E932658131F00B3543E /* License */; };
 		F87936A925F9986500C30B38 /* CalendarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87936A825F9986500C30B38 /* CalendarTableViewCell.swift */; };
 		F87936AE25F998CA00C30B38 /* CalendarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87936AD25F998CA00C30B38 /* CalendarTableViewController.swift */; };
 		F87936B325F99BE900C30B38 /* AddEventCalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87936B225F99BE900C30B38 /* AddEventCalViewController.swift */; };
@@ -103,6 +104,7 @@
 		F84BF6E525FEF48000949C5F /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
 		F84BF6E625FEF48000949C5F /* StatisticsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StatisticsViewController.xib; sourceTree = "<group>"; };
 		F84BF6EC25FF00C900949C5F /* NewAmountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewAmountViewController.swift; sourceTree = "<group>"; };
+		F84E2E932658131F00B3543E /* License */ = {isa = PBXFileReference; lastKnownFileType = text; path = License; sourceTree = "<group>"; };
 		F87936A825F9986500C30B38 /* CalendarTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarTableViewCell.swift; sourceTree = "<group>"; };
 		F87936AD25F998CA00C30B38 /* CalendarTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarTableViewController.swift; sourceTree = "<group>"; };
 		F87936B225F99BE900C30B38 /* AddEventCalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEventCalViewController.swift; sourceTree = "<group>"; };
@@ -266,6 +268,7 @@
 		F8F35FD825F41EAD000A3673 = {
 			isa = PBXGroup;
 			children = (
+				F84E2E932658131F00B3543E /* License */,
 				F8FB382526518C6F0019518A /* Images */,
 				F8FB38232651839A0019518A /* README.md */,
 				F8F35FE325F41EAD000A3673 /* MIDTERM_NOAR */,
@@ -469,6 +472,7 @@
 				F8F35FEC25F41EAD000A3673 /* Main.storyboard in Resources */,
 				F8FB38242651839A0019518A /* README.md in Resources */,
 				F84BF6E825FEF48000949C5F /* StatisticsViewController.xib in Resources */,
+				F84E2E942658131F00B3543E /* License in Resources */,
 				F8C2669326015D9F0038C710 /* AmountTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

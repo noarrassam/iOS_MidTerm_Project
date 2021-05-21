@@ -24,6 +24,12 @@ iOS project that implements a variety of functionalties such as ToDo List, Calen
 
 * TabBar Controller.
 
+## License & Copyright
+
+© Noar Rassam
+
+Licensed under the [MIT License](License).
+
 ## Features
 
 ## **ToDo List**
